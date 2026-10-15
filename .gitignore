@@ -1,0 +1,15 @@
+.env
+.env.local
+*.pem
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.idea/
+.vscode/
+demo/out/
+.grind/
+*.log
+mcp.local.json
